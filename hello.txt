@@ -1,4 +1,8 @@
 hello, world
 ㅇㅈㅎ
+<<<<<<< Updated upstream
 thankyou
 i love you
+=======
+gg
+>>>>>>> Stashed changes
